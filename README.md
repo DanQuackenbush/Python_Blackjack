@@ -1,7 +1,6 @@
 # Blackjack (Python)
 
 **Author:** Dan Quackenbush  
-**Course:** CISS 111 – Program Project  
 
 This is a simple text-based implementation of the Blackjack card game in Python.  
 It demonstrates object-oriented programming concepts, including **classes**, **inheritance**, and **encapsulation**.
