@@ -3,7 +3,7 @@
 **Author:** Dan Quackenbush  
 
 This is a simple text-based implementation of the Blackjack card game in Python.  
-It demonstrates object-oriented programming concepts, including **classes**, **inheritance**, and **encapsulation**.
+
 
 ---
 
